@@ -1,5 +1,7 @@
 # Caledonian Shield 🛡️
 
+![Caledonian Shield](docs/Screenshot_20260117_120547.png)
+
 AI-powered security & compliance companion (UK-focused) — phishing analysis, log explanation, and compliance mapping.
 
 ## 🚀 Live Demo
