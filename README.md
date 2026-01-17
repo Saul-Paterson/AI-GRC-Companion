@@ -3,9 +3,15 @@
 AI-powered security & compliance companion (UK-focused) — phishing analysis, log explanation, and compliance mapping.
 
 ## 🚀 Live Demo
-- PartyRock App: <PASTE_LINK_HERE>
-- Demo Video: <PASTE_LINK_HERE>
+- PartyRock App: <(https://partyrock.aws/u/Hackathon2025/cDeTQkxCo/Caledonian-Shield)>
 
+## 🧪 Example Usage
+Use **sanitised** examples only (no passwords, tokens, or personal data).
+
+- Paste suspicious email/SMS text → get risk score + red flags + next steps  
+- Paste a log line → get explanation + severity + investigation guidance  
+- Select compliance category → get practical UK-focused recommendations
+- 
 ## 🔥 Features
 ### UK Scam & Phishing Detector
 - Analyses suspicious content (email, SMS, WhatsApp)
