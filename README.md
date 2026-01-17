@@ -47,6 +47,19 @@ This repository contains **no secrets** and **no credentials**.
 All examples are **sanitised** and intended for educational/demo purposes only.
 
 ## 📌 Roadmap
-- Add MITRE ATT&CK mapping
-- Add Wazuh-style sample log packs
-- Export report-style outputs (SOC notes format)
+- Improve UI/UX: simplify navigation and reduce cognitive overload (focus on fewer core tools per screen)
+- Split features into modules: Phishing / SOC Logs / Compliance (separate tabs or separate pages)
+- Add “Environment Builder” to tailor outputs (OS, business type, tools used, risk level)
+- Add verbosity controls: Quick Summary / Detailed SOC View / Step-by-Step Beginner Mode
+- Reduce repeated static generation by caching “static guidance” and only generating personalised sections
+- Add structured outputs: risk score, confidence level, recommended next actions, and severity rating
+- Add MITRE ATT&CK mapping for detected behaviours and log patterns
+- Add Wazuh-style sample log packs + parsing templates for common alert types
+- Add exportable incident notes (SOC report format) + compliance checklist export
+
+## 🧠 Lessons Learned
+- A focused tool with fewer features can deliver a better user experience than an “all-in-one” dashboard.
+- Personalisation (environment + context) significantly improves the usefulness of security guidance.
+- Static guidance should be stored and reused, while AI generation should focus on user-specific analysis.
+
+
